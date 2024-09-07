@@ -1,2 +1,3 @@
-# free-vpn
-Free vpn for every one | 为网络受限的人提供的 VPN，这是完全开源且安全的 ❤
+# Roselia VPN
+
+Roselia VPN 是一个开源项目，为网络受限地区的人提供免费的 VPN.
